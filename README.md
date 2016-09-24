@@ -16,7 +16,7 @@ make install
 ```
 ### Execute openocd
 ```
-openocd -f stlink2.1-nrf51.cfg
+openocd -f [configfilename.cfg]
 ```
 ### Connect to openocd and program device
 ```
