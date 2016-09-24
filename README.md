@@ -1,5 +1,6 @@
 # openocd configs
 - stlink-v2.1-nrf51.cfg - st-link v2.1 + nrf51
+- stlink-v2-nrf51.cfg - st-link v2 + nrf51  (Qunqi Mini ST-link/V2 programmer)
 
 ### Dependencies
 - install openocd (apt-get install openocd)
