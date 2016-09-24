@@ -6,7 +6,7 @@
 - install openocd (apt-get install openocd)
 or
 ```
-apt install automake libtool
+apt install pkg-config automake libtool
 git clone git://git.code.sf.net/p/openocd/code openocd-code
 cd openocd-code
 ./bootstrap
